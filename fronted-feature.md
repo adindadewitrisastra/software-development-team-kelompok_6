@@ -1,16 +1,19 @@
-Front-End Developer
+Software Development Team Alpha
 
-Tugas dan Tanggung Jawab
+Nama Kelompok
 
-Front-End Developer bertanggung jawab untuk mendokumentasikan dan mengembangkan bagian antarmuka pengguna dalam proyek perangkat lunak.
+Alpha
 
-Kontribusi
+Anggota Kelompok
 
-1. Membuat dokumentasi peran Front-End Developer.
-2. Berkolaborasi dengan anggota tim menggunakan GitHub.
-3. Menggunakan branch sendiri untuk mengelola perubahan.
-4. Melakukan commit, push, dan Pull Request.
+1. Nama Anggota 1 – Project Manager
+2. Nama Anggota 2 – Front-End Developer
+3. Nama Anggota 3 – Back-End Developer
 
-Kesimpulan
+Mata Kuliah
 
-Tugas ini membantu saya memahami penggunaan Git dan GitHub untuk kolaborasi dalam pengembangan perangkat lunak.
+Software Development (TIF2001)
+
+Deskripsi Repository
+
+Repository ini digunakan untuk praktik kolaborasi pengembangan perangkat lunak menggunakan Git dan GitHub. Setiap anggota membuat branch sendiri, menambahkan file sesuai perannya, melakukan commit dan push, kemudian membuat Pull Request untuk ditinjau dan digabungkan ke branch main.
