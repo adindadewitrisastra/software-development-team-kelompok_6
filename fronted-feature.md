@@ -16,4 +16,4 @@ Software Development (TIF2001)
 
 Deskripsi Repository
 
-Repository ini digunakan untuk praktik kolaborasi pengembangan perangkat lunak menggunakan Git dan GitHub. Setiap anggota membuat branch sendiri, menambahkan file sesuai perannya, melakukan commit dan push, kemudian membuat Pull Request untuk ditinjau dan digabungkan ke branch main.
+Repository ini digunakan untuk praktik kolaborasi pengembangan perangkat lunak menggunakan Git dan GitHub. Setiap anggota membuat branch sendiri, menambahkan file sesuai perannya, melakukan commit dan push, kemudian membuat Pull Request untuk ditinjau dan digabungkan ke branch main. 
